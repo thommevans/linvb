@@ -1,7 +1,7 @@
 linvb
 =====
 
-A Python package for variational Bayes linear regression.
+A Python package for variational Bayes (VB) linear regression.
 
 This code is currently a bit outdated and various things probably need to be fixed up, eg. importing some external packages may be broken.
 
