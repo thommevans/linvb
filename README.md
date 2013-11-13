@@ -15,3 +15,7 @@ The other two modules are:
 
 4. vbr_basis_functions.py - Contains definitions for some commonly used basis functions in the format that they are required by the VB object methods when the basis matrix is constructed.
 5. vbr_planet.py - Specialised routines for including transit and eclipse basis functions. Requires the additional planetc package.
+
+Further documentation and some simple scripts demonstrating how to use the code can be found here:
+
+http://www.physics.ox.ac.uk/users/evanst/code/linvb/index.html
